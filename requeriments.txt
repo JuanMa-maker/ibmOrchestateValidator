@@ -41,7 +41,7 @@ mdurl==0.1.2
 multidict==6.7.0
 mypy_extensions==1.1.0
 orjson==3.11.4
-packaging==25.0
+packaging==24.3
 postgrest==2.24.0
 propcache==0.4.1
 pycparser==2.23
